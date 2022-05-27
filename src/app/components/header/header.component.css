@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: green;
+}
+
+a{
+  text-decoration: none;
+  padding: 0 25%;
+  color: black;
+}
